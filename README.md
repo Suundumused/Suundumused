@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://eastus1-mediap.svc.ms/transform/thumbnail?provider=spo&farmid=193111&inputFormat=jpg&cs=fFNQTw&docid=https%3A%2F%2Fmy.microsoftpersonalcontent.com%2F_api%2Fv2.0%2Fdrives%2Fb!ZQVE6EsMukqzR6o0XxUxNKAkU3NA-GtMom7bq7JcbNnD39kC4rsEQJvHwMuFxGpu%2Fitems%2F01EN2FSKGROA65S4T3JBAZ7BJHBS6HPSKP%3Ftempauth%3DeyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvbXkubWljcm9zb2Z0cGVyc29uYWxjb250ZW50LmNvbUA5MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQiLCJpc3MiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJuYmYiOiIxNzA5NDEzMjAwIiwiZXhwIjoiMTcwOTQzNDgwMCIsImVuZHBvaW50dXJsIjoiZkJqbFJFZTZ2VFAvOHdtdHJyWGR3dkwreEp5YTNXZng3b0NxZXhIY2M2MD0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE2NCIsImlzbG9vcGJhY2siOiJUcnVlIiwidmVyIjoiaGFzaGVkcHJvb2Z0b2tlbiIsInNpdGVpZCI6IlpUZzBOREExTmpVdE1HTTBZaTAwWVdKaExXSXpORGN0WVdFek5EVm1NVFV6TVRNMCIsImdpdmVuX25hbWUiOiI3NyIsImZhbWlseV9uYW1lIjoiV29ybSIsIm5hbWVpZCI6IjAjLmZ8bWVtYmVyc2hpcHx1cm4lM2FzcG8lM2F0ZW5hbnRhbm9uIzkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfHVybiUzYXNwbyUzYXRlbmFudGFub24jOTE4ODA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkIiwic2hhcmluZ2lkIjoiYTA1OWM2ZWZhM2Q2NDk2NjliNWI2Njk4NTY5M2RhOWYiLCJ0dCI6IjAiLCJpcGFkZHIiOiI1Mi4xMDQuOTguMTU1In0.xxgsk_cAG7sj9D-7HBEAN5nllgESmdqUU1dwZakRKEI%26version%3DPublished&width=1024&height=999999&cb=63845020461)
+![Banner](https://github.com/Suundumused/Suundumused/blob/main/Assets/angel_wish_by_nikos23a_db0g2x3.jpg?raw=true)
 
 # Caio Silva
 
@@ -21,7 +21,7 @@ Welcome! 🚀
 
 ## 🎧 Now Playing
 
-[![Spotify](https://mir-s3-cdn-cf.behance.net/project_modules/disp/cdba9817085171.562b56f8b69cd.gif)](https://open.spotify.com/user/vkm48pwm9gbxcetdxg1q7uc5a)
+[![Youtube](https://github.com/Suundumused/Suundumused/blob/main/Assets/0302%20(2).gif?raw=true)](https://youtube.com/playlist?list=PLxPL2AF_DeQUW9Qq7VqQYkpjoz-MQRY-t&si=cSpdtxdKldDgtPtO)
 
 Enjoying some tunes while coding!
 
