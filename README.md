@@ -21,7 +21,7 @@ Welcome! 🚀
 
 ## 🎧 Now Playing
 
-[![Youtube](https://github.com/Suundumused/Suundumused/blob/main/Assets/0302%20(2).gif?raw=true)](https://youtube.com/playlist?list=PLxPL2AF_DeQUW9Qq7VqQYkpjoz-MQRY-t&si=cSpdtxdKldDgtPtO)
+[![Youtube](https://github.com/Suundumused/Suundumused/blob/main/Assets/0302%20(2).gif?raw=true)](https://y)
 
 Enjoying some tunes while coding!
 
