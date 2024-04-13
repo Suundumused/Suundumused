@@ -3,7 +3,7 @@
 
 # Caio Silva
 
-Welcome! 🚀
+Specialist in high-performance software development 🚀
 
 ## 🚀 Skills
 
