@@ -14,9 +14,9 @@ Specialist in high-performance software development 🚀
 <h2 align='left'>🚀 Skills</h2>
 
 <div align='left'>
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/python.png?raw=true" alt="python">
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/c-sharp.png?raw=true" alt="python">
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/visual-basic.png?raw=true" alt="python">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/python.png?raw=true" alt="python" width="50">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/c-sharp.png?raw=true" alt="python" width="50">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/visual-basic.png?raw=true" alt="python" width="50">
 </div>
 
 ## 📫 Let's Connect!
