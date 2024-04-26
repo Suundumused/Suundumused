@@ -1,13 +1,13 @@
-<h1 align="center">Hi <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/profile.gif" width="50"></h1>
+<h1 align="center">Hi There! <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/profile.gif" width="50"></h1>
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=System&weight=500&size=24&pause=100&center=true&random=false&width=435&lines=Full+Stack+Developer;" alt="Typing SVG" /></a></p>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=System&weight=500&size=24&pause=100&center=true&random=false&width=435&lines=Welcome+To+My+Profile;I'm+The+Full+Stack+Developer;" alt="Typing SVG" /></a></p>
 <hr/>
 
 [![Youtube](https://github.com/Suundumused/Suundumused/blob/main/Assets/0302%20(2).gif?raw=true)](https://y)
 
 ![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
 
-Specialist in high-performance software development 🚀
+#### Specialist in high-performance software development 🚀
 
 <h2 align='left'>🚀 Skills</h2>
 
