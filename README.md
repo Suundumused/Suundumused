@@ -11,17 +11,22 @@
 
 Specialist in high-performance software development 🚀
 
-## 🚀 Skills
+<h2 align='left'>🚀 Skills</h2>
 
-- **Programming Languages:**  **Python**, **C#** and a little bit of JavaScript
-- **Web Development:** A little bit of CSS, HTML
-- **Design:** A bit of Photoshop
+<div align='left'>
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/python.png?raw=true" alt="python">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/c-sharp.png?raw=true" alt="python">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/visual-basic.png?raw=true" alt="python">
+</div>
 
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/caio-silva-b27b0713a/)
 
+![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
+
 ## 📊 GitHub Stats
+<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://github.com/Suundumused/Suundumused/blob/main/Assets/card.png?raw=true" width="350" alt="Caio Silva's Dev Card" /></a>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=algolia" alt="Suundumused" /></p>
 
@@ -36,7 +41,7 @@ If you find my work valuable and want to support me, consider making a donation.
 
 #### Ethereum :: **0x2fA70716D1Ae2f4994Be8e249b609056D72Ce80a** 
 
----
+![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
 
 Thanks for stopping by! Feel free to explore my repositories and don't forget to give them a ⭐️ if you find them interesting! 😊
 
