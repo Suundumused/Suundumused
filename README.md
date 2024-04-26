@@ -29,7 +29,8 @@
 
 ## 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Suundumused&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=algolia" alt="Suundumused" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suundumused" alt="Suundumused" />
+
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=algolia" alt="Suundumused" />
 
 ![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
