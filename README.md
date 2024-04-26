@@ -1,7 +1,13 @@
-<!-- Banner -->
-![Banner](https://github.com/Suundumused/Suundumused/blob/main/Assets/angel_wish_by_nikos23a_db0g2x3.jpg?raw=true)
 
-# Caio Silva
+<h1 align="center">Hi , I'm Caio Silva <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/profile.gif" width="35"></h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Always%20learning%20new%20things!&center=true&width=900&height=50&font=system"></a>
+</p>
+<hr/>
+
+[![Youtube](https://github.com/Suundumused/Suundumused/blob/main/Assets/0302%20(2).gif?raw=true)](https://y)
+
+![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
 
 Specialist in high-performance software development 🚀
 
@@ -17,13 +23,7 @@ Specialist in high-performance software development 🚀
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suundumused&show_icons=true&count_private=false&hide=issues&theme=radical)
-
-## 🎧 Now Playing
-
-[![Youtube](https://github.com/Suundumused/Suundumused/blob/main/Assets/0302%20(2).gif?raw=true)](https://y)
-
-Enjoying some tunes while coding!
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=algolia" alt="Suundumused" /></p>
 
 ## 💖 Support Me
 
