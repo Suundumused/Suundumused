@@ -28,9 +28,11 @@
 ![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
 
 ## 📊 GitHub Stats
-<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://github.com/Suundumused/Suundumused/blob/main/Assets/card.gif?raw=true" width="300" alt="Caio Silva's Dev Card" /></a>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=algolia" alt="Suundumused" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Suundumused&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=algolia" alt="Suundumused" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=algolia" alt="Suundumused" />
+
+![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
 
 ## 💖 Support Me
 
