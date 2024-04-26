@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi , I'm Caio Silva <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/profile.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Always%20learning%20new%20things!&center=true&width=900&height=50&font=system"></a>
