@@ -11,6 +11,10 @@
 
 <h2 align='left'>🚀 Skills</h2>
 
+<a href="https://github.com/Suundumused/AI-Weather-Forecast">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Suundumused&show_icons=true&theme=algolia" alt="Suundumused"/>
+</a>
+
 <div align='left'>
     <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/python.png?raw=true" alt="python" width="50">
     <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/c-sharp.png?raw=true" alt="c#" width="50">
