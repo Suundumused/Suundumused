@@ -40,8 +40,8 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=algolia" alt="Suundumused" />
 
 <div align="right">
-    <a href="https://github.com/Suundumused/AI-Weather-Forecast">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=Suundumused&repo=AI-Weather-Forecast&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Suundumused" width="300"/>
+    <a href="https://github.com/Suundumused/Web-Browser-Widget">
+        <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=Suundumused&repo=Web-Browser-Widget&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Suundumused" width="300"/>
     </a>
     <br/><br/><br/><br/><br/><br/><br/><br/>
     <img align="right" src="https://komarev.com/ghpvc/?username=Suundumused&style=plastic&color=blueviolet" alt="Suundumused" width="125"/>
