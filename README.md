@@ -44,7 +44,7 @@
         <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=Suundumused&repo=AI-Weather-Forecast&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Suundumused" width="300"/>
     </a>
     <br/><br/><br/><br/><br/><br/><br/><br/>
-    <img align="right" src="https://komarev.com/ghpvc/?username=Suundumused&style=plastic&color=blueviolet" alt="Suundumused"/>
+    <img align="right" src="https://komarev.com/ghpvc/?username=Suundumused&style=plastic&color=blueviolet" alt="Suundumused" width="125"/>
 </div>
 
 ![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
