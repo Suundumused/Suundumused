@@ -43,7 +43,7 @@
     <a href="https://github.com/Suundumused/AI-Weather-Forecast">
         <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=Suundumused&repo=AI-Weather-Forecast&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Suundumused" width="300"/>
     </a>
-    <p>
+    <p align="right">
     .
     .
     .
