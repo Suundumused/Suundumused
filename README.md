@@ -12,7 +12,7 @@
 <h2 align='left'>🚀 Skills</h2>
 
 <a href="https://github.com/Suundumused/AI-Weather-Forecast">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Suundumused&show_icons=true&theme=merko" alt="Suundumused"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Suundumused&show_icons=true&theme=tokyonight" alt="Suundumused"/>
 </a>
 
 <div align='left'>
@@ -37,7 +37,7 @@
 
 ## 📊 GitHub Stats
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=merko" alt="Suundumused" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=tokyonight" alt="Suundumused" />
 
 <div align="right">
     <a href="https://github.com/Suundumused/Web-Browser-Widget">
