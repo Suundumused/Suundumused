@@ -28,6 +28,10 @@
 <a href="https://www.linkedin.com/in/caio-silva-b27b0713a/">
     <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/LinkedIn.png?raw=true" alt="LinkedIn" width="50">
 </a>
+&nbsp;
+<a href="https://steamcommunity.com/id/SonecaSA/">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/steam.png?raw=true" alt="LinkedIn" width="50">
+</a>
 
 ![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
 
