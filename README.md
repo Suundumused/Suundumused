@@ -30,7 +30,7 @@
 </a>
 &nbsp;
 <a href="https://steamcommunity.com/id/SonecaSA/">
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/steam.png?raw=true" alt="LinkedIn" width="50">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/steam.png?raw=true" alt="Steam" width="50">
 </a>
 
 ![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
