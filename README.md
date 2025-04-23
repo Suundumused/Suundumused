@@ -25,7 +25,7 @@
 
 ## 📫 Let's Connect!
 
-<a href="https://www.linkedin.com/in/caio-silva-b27b0713a/">
+<a href="https://www.linkedin.com/in/-b27b0713a/">
     <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/LinkedIn.png?raw=true" alt="LinkedIn" width="50">
 </a>
 &nbsp;
