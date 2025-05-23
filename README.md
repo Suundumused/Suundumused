@@ -21,6 +21,8 @@
     <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/c-sharp.png?raw=true" alt="c#" width="50">
     &nbsp;
     <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/unreal.png?raw=true" alt="unreal engine" width="50">
+    &nbsp;
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/java_icon_130901.png?raw=true" alt="java" width="50">
 </div>
 
 ## 📫 Let's Connect!
