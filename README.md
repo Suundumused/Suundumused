@@ -42,7 +42,7 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=tokyonight" alt="Suundumused" />
 
 <div align="right">
-    <a href="https://github.com/Suundumused/Web-Browser-Widget">
+    <a href="https://github.com/Suundumused/Motion-Joystick-Steering-Wheel">
         <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=Suundumused&repo=Motion-Joystick-Steering-Wheel&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Suundumused" width="300"/>
     </a>
     <br/><br/><br/><br/><br/><br/><br/><br/>
