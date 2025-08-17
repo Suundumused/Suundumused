@@ -13,29 +13,37 @@
 </a>
 
 <div align='left'>
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/python.png?raw=true" alt="python" width="50">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/python.png?raw=true" alt="Python" width="50">
     &nbsp;
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/c-sharp.png?raw=true" alt="c#" width="50">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/c-sharp.png?raw=true" alt="C#" width="50">
     &nbsp;
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/unreal.png?raw=true" alt="unreal engine" width="50">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/unreal.png?raw=true" alt="Unreal Engine" width="50">
     &nbsp;
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/java_icon_130901.png?raw=true" alt="java" width="50">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/java_icon_130901.png?raw=true" alt="Java" width="50">
 </div>
 
 &nbsp;
 
 <div align='left'>
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/oracle.jpeg?raw=true" alt="python" width="50">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-html-5-1-1175208.webp?raw=true" alt="HTML 5" width="50">
     &nbsp;
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-html-5-1-1175208.webp?raw=true" alt="c#" width="50">
-    &nbsp;
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/Git-Icon-1788C.png?raw=true" alt="unreal engine" width="50">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/css_plain_logo_icon_146573.png?raw=true" alt="CSS" width="50">
 </div>
 
 &nbsp;
 
 <div align='left'>
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-linux-3521549-2944967.webp?raw=true" alt="python" width="50">
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/oracle.jpeg?raw=true" alt="Oracle SQL" width="50">    
+</div>
+
+&nbsp;
+
+<div align='left'>
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-linux-3521549-2944967.webp?raw=true" alt="Linux" width="50">
+    &nbsp;
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/docker_tile_logo_icon_168248.png?raw=true" alt="Docker" width="50">
+    &nbsp;
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/Git-Icon-1788C.png?raw=true" alt="Git" width="50">
 </div>
 
 
