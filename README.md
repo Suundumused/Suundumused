@@ -28,6 +28,8 @@
     <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-html-5-1-1175208.webp?raw=true" alt="HTML 5" width="50">
     &nbsp;
     <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/css_plain_logo_icon_146573.png?raw=true" alt="CSS" width="50">
+    &nbsp;
+    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/javascript.webp?raw=true" alt="Java Script" width="50">
 </div>
 
 &nbsp;
