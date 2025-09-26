@@ -4,7 +4,6 @@
 
 ![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
 
-### Specialist in high-performance software development 🚀
 
 <h2 align='left'>🚀 Skills</h2>
 
