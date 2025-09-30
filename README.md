@@ -9,9 +9,7 @@
 
 <h2 align='left'>🚀 Skills</h2>
 
-<a href="https://github.com/Suundumused">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Suundumused&show_icons=true&theme=tokyonight" alt="Suundumused" width="400px"/>
-</a>
+<img align="right" width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suundumused&layout=donut&hide_border=false&title_color=fff&text_color=fff&bg_color=0d1117" />
 
 | Python | Csharp | Unreal Engine | Java |
 | :-----: | :-----: | :-----: | :-----: |
@@ -29,8 +27,8 @@
 | Linux | Docker | Git |
 | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-linux-3521549-2944967.webp?raw=true" alt="Linux" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/docker_tile_logo_icon_168248.png?raw=true" alt="Docker" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/Git-Icon-1788C.png?raw=true" alt="Git" width="50"> |
 
-<div align="right">
-    <a align="right"  href="https://github.com/Suundumused/Motion-Joystick-Steering-Wheel">
+<div align="center">
+    <a align="center"  href="https://github.com/Suundumused/Motion-Joystick-Steering-Wheel">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=Suundumused&repo=Motion-Joystick-Steering-Wheel&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Suundumused" width="400"/>
     </a>    
 </div>
@@ -49,8 +47,12 @@
 
 ## 📊 GitHub Stats
 
-<img align="left" width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=tokyonight" alt="Suundumused" />
-<img align="right" width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suundumused&layout=donut&hide_border=false&title_color=fff&text_color=fff&bg_color=0d1117" />
+<div>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=tokyonight" alt="Suundumused" width="370px" />  
+  <a href="https://github.com/Suundumused">
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=Suundumused&show_icons=true&theme=tokyonight" alt="Suundumused" width="370px"/>
+  </a>
+</div>
 
 ![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
 
