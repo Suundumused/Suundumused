@@ -28,20 +28,17 @@
 | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-linux-3521549-2944967.webp?raw=true" alt="Linux" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/docker_tile_logo_icon_168248.png?raw=true" alt="Docker" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/Git-Icon-1788C.png?raw=true" alt="Git" width="50"> |
 
 <div align="center">
-    <a align="center"  href="https://github.com/Suundumused/Motion-Joystick-Steering-Wheel">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Suundumused&repo=Motion-Joystick-Steering-Wheel&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Suundumused" width="400"/>
+    <a align="center" href="https://github.com/Suundumused/Motion-Joystick-Steering-Wheel">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=Suundumused&repo=Motion-Joystick-Steering-Wheel&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Suundumused" width="350px"/>
     </a>    
 </div>
 
 ## 📫 Let's Connect!
 
-<a href="https://www.linkedin.com/in/caio-silva-b27b0713a/">
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/LinkedIn.png?raw=true" alt="LinkedIn" width="50">
-</a>
-&nbsp;
-<a href="https://steamcommunity.com/id/SonecaSA/">
-    <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/steam.png?raw=true" alt="Steam" width="50">
-</a>
+| LinkedIn | Steam |
+| :-----: | :-----: |
+| <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/LinkedIn.png?raw=true" alt="LinkedIn" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/steam.png?raw=true" alt="Steam" width="50"> |
+| <img width="82" height="0px"></img> | <img width="56" height="0px"></img> |
 
 ![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
 
