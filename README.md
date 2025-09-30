@@ -6,10 +6,28 @@
 
 ![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
 
-
 <h2 align='left'>🚀 Skills</h2>
 
-<img align="right" width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suundumused&layout=donut&hide_border=false&title_color=fff&text_color=fff&bg_color=0d1117" />
+<div align="right">
+ <table align="right">
+  <tr>
+   <td>
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suundumused&layout=donut&hide_border=false&title_color=fff&text_color=fff&bg_color=0d1117" />
+   </td>
+  </tr>
+  <tr>
+   <tr>
+    <td>
+    </td>
+   </tr>
+   <td>
+     <a href="https://github.com/Suundumused/Motion-Joystick-Steering-Wheel">
+     <img src="https://github-readme-stats.vercel.app/api/pin?username=Suundumused&repo=Motion-Joystick-Steering-Wheel&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Suundumused" width="350px"/>
+     </a>
+   </td>
+  </tr>
+ </table>
+</div>
 
 | Python | Csharp | Unreal Engine | Java |
 | :-----: | :-----: | :-----: | :-----: |
@@ -26,12 +44,6 @@
 | | | |
 | Linux | Docker | Git |
 | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-linux-3521549-2944967.webp?raw=true" alt="Linux" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/docker_tile_logo_icon_168248.png?raw=true" alt="Docker" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/Git-Icon-1788C.png?raw=true" alt="Git" width="50"> |
-
-<div align="center">
-    <a align="center" href="https://github.com/Suundumused/Motion-Joystick-Steering-Wheel">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Suundumused&repo=Motion-Joystick-Steering-Wheel&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Suundumused" width="350px"/>
-    </a>    
-</div>
 
 ## 📫 Let's Connect!
 
