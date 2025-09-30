@@ -48,9 +48,9 @@
 ## 📊 GitHub Stats
 
 <div>
-   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=tokyonight" alt="Suundumused" width="390px" />  
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Suundumused&theme=tokyonight" alt="Suundumused" width="400px" />  
   <a href="https://github.com/Suundumused">
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=Suundumused&show_icons=true&theme=tokyonight" alt="Suundumused" width="390px"/>
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=Suundumused&show_icons=true&theme=tokyonight" alt="Suundumused" width="400px"/>
   </a>
 </div>
 
