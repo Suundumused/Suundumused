@@ -15,11 +15,10 @@
     <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suundumused&layout=donut&hide_border=false&title_color=fff&text_color=fff&bg_color=0d1117" />
    </td>
   </tr>
+  <tr><td></td></tr>
+  <tr><td></td></tr>
+  <tr><td></td></tr>
   <tr>
-   <tr>
-    <td>
-    </td>
-   </tr>
    <td>
      <a href="https://github.com/Suundumused/Motion-Joystick-Steering-Wheel">
      <img src="https://github-readme-stats.vercel.app/api/pin?username=Suundumused&repo=Motion-Joystick-Steering-Wheel&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Suundumused" width="350px"/>
