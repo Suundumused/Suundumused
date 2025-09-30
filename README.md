@@ -20,8 +20,8 @@
 | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-html-5-1-1175208.webp?raw=true" alt="HTML 5" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/css_plain_logo_icon_146573.png?raw=true" alt="CSS" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/javascript.webp?raw=true" alt="Java Script" width="50"> |
 | |
 | |
-| Oracle SQL |
-| <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/oracle.jpeg?raw=true" alt="Oracle SQL" width="50"> |
+| Oracle SQL | Selenium |
+| <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/oracle.jpeg?raw=true" alt="Oracle SQL" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/Selenium_Logo.png?raw=true" alt="Selenium WebDriver" width="50">
 | | | |
 | | | |
 | Linux | Docker | Git |
@@ -38,7 +38,7 @@
 | LinkedIn | Steam |
 | :-----: | :-----: |
 | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/LinkedIn.png?raw=true" alt="LinkedIn" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/steam.png?raw=true" alt="Steam" width="50"> |
-| <img width="82" height="0px"></img> | <img width="56" height="0px"></img> |
+| <img width="82" height="0px"></img> | <img width="70" height="0px"></img> |
 
 ![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
 
