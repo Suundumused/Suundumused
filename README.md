@@ -48,7 +48,7 @@
 
 | LinkedIn | Steam |
 | :-----: | :-----: |
-| <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/LinkedIn.png?raw=true" alt="LinkedIn" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/steam.png?raw=true" alt="Steam" width="50"> |
+| <a href="https://www.linkedin.com/in/caio-silva-b27b0713a/"><img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/LinkedIn.png?raw=true" alt="LinkedIn" width="50"></a> | <a href="https://steamcommunity.com/id/SonecaSA/"><img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/steam.png?raw=true" alt="Steam" width="50"></a> |
 | <img width="68" height="0px"></img> | <img width="56" height="0px"></img> |
 
 ![Separator](https://github.com/Suundumused/Suundumused/blob/main/Assets/borderseperator.gif?raw=true)
