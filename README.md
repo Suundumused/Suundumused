@@ -34,7 +34,7 @@
 | | | |
 | | | |
 | HTML 5 | CSS | JavaScript | React
-| <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-html-5-1-1175208.webp?raw=true" alt="HTML 5" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/css_plain_logo_icon_146573.png?raw=true" alt="CSS" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/javascript.webp?raw=true" alt="Java Script" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/angular-icon.png?raw=true" alt="Angular" width="50">
+| <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-html-5-1-1175208.webp?raw=true" alt="HTML 5" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/css_plain_logo_icon_146573.png?raw=true" alt="CSS" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/typescript.png?raw=true" alt="Java Script" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/angular-icon.png?raw=true" alt="Angular" width="50">
 | |
 | |
 | SQL Server | Selenium | RabbitMQ
