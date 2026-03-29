@@ -33,12 +33,12 @@
 | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/python.png?raw=true" alt="Python" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/c-sharp.png?raw=true" alt="C#" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/unreal.png?raw=true" alt="Unreal Engine" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/java_icon_130901.png?raw=true" alt="T-SQL" width="50"> |
 | | | |
 | | | |
-| HTML 5 | CSS | JavaScript | React
-| <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-html-5-1-1175208.webp?raw=true" alt="HTML 5" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/css_plain_logo_icon_146573.png?raw=true" alt="CSS" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/typescript.png?raw=true" alt="Java Script" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/angular-icon.png?raw=true" alt="Angular" width="50">
+| HTML 5 | CSS | TypeScript | React
+| <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/free-html-5-1-1175208.webp?raw=true" alt="HTML 5" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/css_plain_logo_icon_146573.png?raw=true" alt="CSS" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/typescript.png?raw=true" alt="TypeScript" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/angular-icon.png?raw=true" alt="React" width="50">
 | |
 | |
 | SQL Server | Selenium | RabbitMQ
-| <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/ssms_21.png?raw=true" alt="Oracle SQL" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/Selenium_Logo.png?raw=true" alt="Selenium WebDriver" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/rabbitmq-logo-png-transparent.png?raw=true" alt="Selenium WebDriver" width="50">
+| <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/ssms_21.png?raw=true" alt="Microsoft SQL" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/Selenium_Logo.png?raw=true" alt="Selenium WebDriver" width="50"> | <img src="https://github.com/Suundumused/Suundumused/blob/main/Assets/rabbitmq-logo-png-transparent.png?raw=true" alt="Selenium WebDriver" width="50">
 | | | |
 | | | |
 | Linux | Docker | Git |
